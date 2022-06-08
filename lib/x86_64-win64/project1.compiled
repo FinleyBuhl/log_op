@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\lazarus\fpc\3.2.2\bin\x86_64-win64\fpc.exe" Date="1411539275"/>
+  <Params Value=" -MObjFPC -Scghi -CX -O4 -XX -l -vewnhibq -FiC:\Users\fbuhl\Desktop\log_op\lib\x86_64-win64 -FuC:\Users\fbuhl\Desktop\log_op\ -FUC:\Users\fbuhl\Desktop\log_op\lib\x86_64-win64\ -FEC:\Users\fbuhl\Desktop\log_op\ -oC:\Users\fbuhl\Desktop\log_op\project1.exe project1.lpr"/>
+</CONFIG>
